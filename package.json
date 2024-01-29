@@ -12,6 +12,7 @@
     "typescript": "^5.3.3"
   },
   "prettier": {
-    "singleQuote": true
+    "singleQuote": true,
+    "tabWidth": 4
   }
 }
